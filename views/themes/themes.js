@@ -12,11 +12,11 @@ exports.themes = {
     primDark: '#263238'
   },
   'blue-lightblue': {
-    bgColor: '#004792',
+    bgColor: '#004990',
     textColor: '#000000',
-    navColor: '#004792',
-    primLight: '#004792',
-    primDark: '#004792'
+    navColor: '#004990',
+    primLight: '#004990',
+    primDark: '#004990'
   },
   'deeppurple-amber': {
     bgColor: '#FAFAFA',

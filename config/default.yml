@@ -15,7 +15,7 @@ application:
   privacyContactEmail: donotreply@owasp-juice.shop
   customMetricsPrefix: juiceshop
   chatBot:
-    name: 'Juicy'
+    name: 'Lowes-Bot'
     greeting: "Nice to meet you <customer-name>, I'm <bot-name>"
     trainingData: 'botDefaultTrainingData.json'
     defaultResponse: "Sorry I couldn't understand what you were trying to say"
@@ -33,7 +33,7 @@ application:
   welcomeBanner:
     showOnFirstStart: true
     title: 'Welcome to LOWES Hardware Shop!'
-    message: "<p>Being a web application with a vast number of intended security vulnerabilities, the <strong>OWASP Juice Shop</strong> is supposed to be the opposite of a best practice or template application for web developers: It is an awareness, training, demonstration and exercise tool for security risks in modern web applications. The <strong>OWASP Juice Shop</strong> is an open-source project hosted by the non-profit <a href='https://owasp.org' target='_blank'>Open Web Application Security Project (OWASP)</a> and is developed and maintained by volunteers. Check out the link below for more information and documentation on the project.</p><h1><a href='https://owasp-juice.shop' target='_blank'>https://owasp-juice.shop</a></h1>"
+    message: "<p>Welcome to the Hardware Shop. Here you will find a serious of security vulnerabilities that have been customized to emulate an online shopping platform. We hope you enjoy. All credit for the orginal project goes to OWASP: </p><h1><a href='https://owasp-juice.shop' target='_blank'>https://owasp-juice.shop</a></h1>"
   cookieConsent:
     backgroundColor: '#0041C2'
     textColor: '#ffffff'
@@ -89,13 +89,13 @@ products:
     price: 5.00
     deluxePrice: 3.00
     limitPerUser: 5
-    description: 'The all-time classic.'
+    description: 'Keep you and your family safe through the fire and flames'
     image: apple_juice.jpg
     reviews:
-      - { text: 'One of my favorites!', author: admin }
+      - { text: 'Its great!', author: admin }
   -
     name: 'Head Lamp'
-    description: ''
+    description: 'This product will illuminate your life like no other!'
     price: 10.99
     deluxePrice: 8.49
     image: orange_juice.jpg
@@ -103,7 +103,7 @@ products:
       - { text: 'y0ur f1r3wall needs m0r3 musc13', author: uvogin }
   -
     name: 'Plier and wire cutter'
-    description: 'Now with even more exotic flavour.'
+    description: 'Easily cut wires for all your electical projects'
     price: 8.99
     image: eggfruit_juice.jpg
     reviews:
@@ -115,18 +115,18 @@ products:
     image: raspberry_juice.jpg
   -
     name: 'craftsman garage cabinet'
-    description: 'Sour but full of vitamins.'
-    price: 2.99
-    deluxePrice: 1.99
+    description: 'Holds all your tools for all your projects!'
+    price: 30.00
+    deluxePrice: 35.00
     limitPerUser: 5
     image: lemon_juice.jpg
   -
     name: 'Lumber'
-    description: 'Monkeys love it the most.'
-    price: 1.99
+    description: 'Our hihg-quality lumber is sourced from the Himalayas'
+    price: 10
     image: banana_juice.jpg
     reviews:
-      - { text: 'Fry liked it too.', author: bender }
+      - { text: 'Was great for my home project. We used this wood for a flooring project!', author: bender }
   -
     name: 'safety-weather-radios'
     description: 'Real fans wear it 24/7!'
