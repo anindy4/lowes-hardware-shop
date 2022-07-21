@@ -122,26 +122,26 @@ products:
     image: lemon_juice.jpg
   -
     name: 'Lumber'
-    description: 'Our hihg-quality lumber is sourced from the Himalayas'
+    description: 'Our high-quality lumber is sourced from the Himalayas'
     price: 10
     image: banana_juice.jpg
     reviews:
       - { text: 'Was great for my home project. We used this wood for a flooring project!', author: bender }
   -
     name: 'safety-weather-radios'
-    description: 'Real fans wear it 24/7!'
-    price: 22.49
+    description: 'These radios are a great choice for local communication'
+    price: 20.10
     limitPerUser: 5
     image: fan_shirt.jpg
   -
     name: 'Pliers'
-    description: 'For serious Capture-the-Flag heroines only!'
-    price: 22.49
+    description: 'The perfect tool for the job!'
+    price: 15.99
     image: fan_girlie.jpg
   -
     name: 'Bobblehead'
-    description: 'O-Saft is an easy to use tool to show information about SSL certificate and tests the SSL connection according given list of ciphers and various SSL configurations.'
-    price: 0.01
+    description: 'The Marvin Ellison exclusive bobblehead makes the perfect desk ornament!'
+    price: 10.00
     image: marvin-bobblehead.jpg
     urlForProductTamperingChallenge: 'https://www.owasp.org/index.php/O-Saft'
   -
@@ -171,17 +171,17 @@ products:
     image: iron-on.jpg
   -
     name: 'Kobalt Combo Kit'
-    description: 'Your fridge will be even cooler with these OWASP Juice Shop or CTF Extension logo <a href="https://www.stickeryou.com/products/owasp-juice-shop/794" target="_blank">magnets</a>!'
+    description: 'This Kobalt combo kit is the perfect companion for the job site.'
     price: 15.99
     image: magnets.jpg
   -
     name: 'Refrigerator'
-    description: 'Massive decoration opportunities with these OWASP Juice Shop or CTF Extension <a href="https://www.stickeryou.com/products/owasp-juice-shop/794" target="_blank">sticker pages</a>! Each page has 16 stickers on it.'
-    price: 9.99
+    description: 'This fridge is the perfect size for any home, with ice dispensing technology!'
+    price: 899.98
     image: sticker_page.jpg
   -
     name: 'Screwdriver'
-    description: 'Super high-quality vinyl <a href="https://www.stickeryou.com/products/owasp-juice-shop/794" target="_blank">sticker single</a> with the OWASP Juice Shop or CTF Extension logo! The ultimate laptop decal!'
+    description: 'This high-quality screwdriver is made from titanium for any tough job'
     price: 4.99
     image: sticker_single.jpg
   -
