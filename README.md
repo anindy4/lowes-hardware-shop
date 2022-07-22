@@ -89,6 +89,8 @@ For a detailed introduction, full list of features and architecture overview ple
 4. Run `npm install` (only has to be done before first start or when you change the source code)
 5. Run `npm start`
 6. Browse to <http://localhost:3000>
+7. If npm install fails, edit the file: `vim /lowes-hardware-show/frontend/node_modules/ngx-cookie/fesm2015/ngx-cookie.mjs`, scroll to the bottom, and change any locations where minVersion is 14.0 to 12.0.
+8. You also may need to run `npm i config` and `npm i i18n` if the app still fails to run. After these changes, re-try `npm install`.
 
 ### Packaged Distributions
 
