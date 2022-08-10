@@ -273,7 +273,7 @@ products:
     price: 2.99
     image: carrot_juice.jpeg
     reviews:
-      { text: '0 st4rs f0r 7h3 h0rr1bl3 s3cur17y', author: uvogin }
+      - { text: '0 st4rs f0r 7h3 h0rr1bl3 s3cur17y', author: uvogin }
   -
     name: 'Hammer'
     description: 'This hammer is ready to hammer away the competition with its titanium construction and durable grip'
