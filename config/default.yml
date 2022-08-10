@@ -3,7 +3,7 @@ server:
   basePath: ''
 application:
   domain: lowes-hw-sh.op
-  name: 'LOWES Hardware Shop'
+  name: 'Hardware Shop'
   logo:  lowes_logo.png
   favicon: 
   theme:  blue-lightblue # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
@@ -160,7 +160,7 @@ products:
       - eurogium edule
   -
     name: 'Electric dryer'
-    description: 'Die-cut sticker with the official 2015/2016 logo. By now this is a rare collectors item. <em>Out of stock!</em>'
+    description: 'This dryer will dry all of your items quickyl and energy efficiently!'
     price: 999.99
     image: sticker.png
     deletedDate: '2017-04-28'
@@ -186,19 +186,19 @@ products:
     image: sticker_single.jpg
   -
     name: 'mower trimmer brush cutter attachment'
-    description: 'Get one of these <a href="https://www.stickeryou.com/products/owasp-juice-shop/794" target="_blank">temporary tattoos</a> to proudly wear the OWASP Juice Shop or CTF Extension logo on your skin! If you tweet a photo of yourself with the tattoo, you get a couple of our stickers for free! Please mention <a href="https://twitter.com/owasp_juiceshop" target="_blank"><code>@owasp_juiceshop</code></a> in your tweet!'
+    description: 'Check out this handy attachment for all your gardening needs!'
     price: 14.99
     image: tattoo.jpg
     reviews:
-      - { text: 'I straight-up gots nuff props fo''these tattoos!', author: rapper }
+      - { text: 'I straight-up gots nuff props fo this tool brooo', author: rapper }
   -
     name: 'Safety Tape'
-    description: 'Black mug with regular logo on one side and CTF logo on the other! Your colleagues will envy you!'
-    price: 21.99
+    description: 'Stay highly visible with this lovely safety tape!'
+    price: 5.00
     image: fan_mug.jpg
   -
     name: 'Safety Harness'
-    description: 'Mr. Robot-style apparel. But in black. And with logo.'
+    description: 'Stay safe, stay awesome with this safety harness guaranteed to handle loads in excess of 2 lbs'
     price: 49.99
     image: fan_hoodie.jpg
   -
@@ -213,16 +213,16 @@ products:
       - { text: 'Looks so much better on my uniform than the boring Starfleet symbol.', author: jim }
   -
     name: 'Work Gloves'
-    description: 'Harvested and manufactured in the Black Forest, Germany. Can cause hyperactive behavior in children. Can cause permanent green tongue when consumed undiluted.'
+    description: 'Protect yoour hands from all the dirt and grime using these responsibly sourced work gloves!'
     price: 6.99
     image: woodruff_syrup.jpg
   -
     name: 'Electric Fireplace'
-    description: 'Looks poisonous but is actually very good for your health! Made from green cabbage, spinach, kiwi and grass.'
-    price: 1.99
+    description: 'Coz up with the electric fireplace!'
+    price: 799.99
     image: green_smoothie.jpg
     reviews:
-      - { text: 'Fresh out of a replicator.', author: jim }
+      - { text: 'Amazing! Kept my house nice and cozy all winter long!', author: jim }
   -
     name: 'Quince Juice (1000ml)'
     description: 'Juice of the <em>Cydonia oblonga</em> fruit. Not exactly sweet but rich in Vitamin C.'
@@ -230,15 +230,16 @@ products:
     image: quince.jpg
   -
     name: 'Bosch Multitool Kit'
-    description: 'Finest pressings of apples. Allergy disclaimer: Might contain traces of worms. Can be <a href="/#recycle">sent back to us</a> for recycling.'
-    price: 0.89
+    description: 'The Bosch Multitool is the perfect compainion for any of your projects large or small'
+    price: 8.00
     limitPerUser: 5
     image: apple_pressings.jpg
   -
     name: 'Knee Pads'
-    description: 'Fruits go in. Juice comes out. Pomace you can send back to us for recycling purposes.'
+    description: 'Keep your knees safe with these patent pending kneepads!'
     price: 89.99
     image: fruit_press.jpg
+      - { text: 'dese things worked so good when I was working on my house!', author: rapper }
   -
     name: 'OWASP Juice Shop Logo (3D-printed)'
     description: 'This rare item was designed and handcrafted in Sweden. This is why it is so incredibly expensive despite its complete lack of purpose.'
@@ -249,7 +250,7 @@ products:
       - OpenSCAD
   -
     name: 'Brushless Cordless Hammer Drill Driver'
-    description: 'Unique masterpiece painted with different kinds of juice on 90g/m² lined paper.'
+    description: 'Master all the projects with the classic cordless drill!'
     price: 278.74
     quantity: 0
     image: artwork.jpg
@@ -267,20 +268,20 @@ products:
     image: strawberry_juice.jpeg
   -
     name: 'Wrench'
-    description: 'As the old German saying goes: "Carrots are good for the eyes. Or has anyone ever seen a rabbit with glasses?"'
+    description: 'Handle all the projects with this amazing Wrench!'
     price: 2.99
     image: carrot_juice.jpeg
     reviews:
       - { text: '0 st4rs f0r 7h3 h0rr1bl3 s3cur17y', author: uvogin }
   -
     name: 'Microwave'
-    description: '10 sheets of Sweden-themed stickers with 15 stickers on each.'
-    price: 19.1
+    description: 'Zap your food until it can't be zapped no more. This microwave is rated for 8000 amps, enough to cook a wildebeast!'
+    price: 60.00
     image: stickersheet_se.png
     deletedDate: '2017-09-20'
   -
     name: 'Hammer'
-    description: '<em>The official Companion Guide</em> by Björn Kimminich available <a href="https://leanpub.com/juice-shop">for free on LeanPub</a> and also <a href="https://pwning.owasp-juice.shop">readable online</a>!'
+    description: 'This hammer is ready to hammer away the competition with its titanium construction and durable grip'
     price: 5.99
     image: cover_small.jpg
     reviews:
@@ -308,32 +309,32 @@ products:
       - { text: 'Wait for a 10$ Steam sale of Tabletop Simulator!', author: bjoernOwasp }
   -
     name: 'craftsman tool set'
-    description: 'This amazing mobile app security awareness board game is <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1970691216">available for Tabletop Simulator on Steam Workshop</a> now!'
-    price: 0.01
+    description: 'The craftsmen toolkit is the perfect solution to handle all your projects.'
+    price: 800.00
     quantity: 0
     image: snakes_ladders_m.jpg
     reviews:
-      - { text: "Here yo' learn how tha fuck ta not show yo' goddamn phone on camera!", author: rapper }
+      - { text: "Wow! Amazing product", author: jim }
   -
     name: 'Hard Hats'
-    description: "Die-cut holographic sticker. Stand out from those 08/15-sticker-covered laptops with this shiny beacon of 80's coolness!"
-    price: 2.00
+    description: "this hard hat will keep you conscious in case of any head related trauma!"
+    price: 20.00
     quantity: 0
     image: holo_sticker.png
     reviews:
       - { text: "Rad, dude!", author: rapper }
-      - { text: "Looks spacy on Bones' new tricorder!", author: jim }
-      - { text: "Will put one on the Planet Express ship's bumper!", author: bender }
+      - { text: "Looks great on Bones' new noggin!", author: jim }
+      - { text: "I need this to keep my head protected!", author: bender }
   -
     name: 'Drill Bits'
-    description: "Facemask with compartment for filter from 50% cotton and 50% polyester."
+    description: "These drill bits are sure to handle any materials you need to drill a hole into!"
     price: 13.49
     quantity: 0
     limitPerUser: 1
     image: fan_facemask.jpg
     reviews:
       - { text: "K33p5 y0ur ju1cy 5plu773r 70 y0ur53lf!", author: uvogin }
-      - { text: "Puny mask for puny human weaklings!", author: bender }
+      - { text: "These drill bits broke 19 times when I tried to use them for my project :(", author: bender }
   -
     name: 'Juice Shop Adversary Trading Card (Common)'
     description: 'Common rarity "Juice Shop" card for the <a href="https://docs.google.com/forms/d/e/1FAIpQLSecLEakawSQ56lBe2JOSbFwFYrKDCIN7Yd3iHFdQc5z8ApwdQ/viewform">Adversary Trading Cards</a> CCG.'
@@ -357,8 +358,8 @@ products:
       - { text: "Mau Mau with bling-bling? Humans are so pathetic!", author: bender }
   -
     name: 'Weed Cutter Grass whip'
-    description: 'Exact version of <a href="https://github.com/juice-shop/juice-shop/releases/tag/v9.3.1-PERMAFROST">OWASP Juice Shop that was archived on 02/02/2020</a> by the GitHub Archive Program and ultimately went into the <a href="https://github.blog/2020-07-16-github-archive-program-the-journey-of-the-worlds-open-source-code-to-the-arctic">Arctic Code Vault</a> on July 8. 2020 where it will be safely stored for at least 1000 years.'
-    price: 9999.99
+    description: 'Trim the grass and more with this amazing tool!'
+    price: 300.00
     quantity: 1
     limitPerUser: 1
     image: permafrost.jpg
@@ -366,12 +367,12 @@ products:
       - { text: "🧊 Let it go, let it go 🎶 Can't hold it back anymore 🎶 Let it go, let it go 🎶 Turn away and slam the door ❄️", author: rapper }
   -
     name: 'Welding Torch Kit'
-    description: 'Unique digital painting depicting Stan, our most qualified and almost profitable salesman. He made a succesful carreer in selling used ships, coffins, krypts, crosses, real estate, life insurance, restaurant supplies, voodoo enhanced asbestos and courtroom souvenirs before <em>finally</em> adding his expertise to the Juice Shop marketing team.'
-    price: 5000
+    description: 'Weld metal, weld wood, weld the world back together with this incredible kit!'
+    price: 100.00
     quantity: 1
     image: artwork2.jpg
     reviews:
-      - { text: "I'd stand on my head to make you a deal for this piece of art.", author: stan }
+      - { text: "I'd stand on my head to make you a deal for this.", author: stan }
       - { text: "Just when my opinion of humans couldn't get any lower, along comes Stan...", author: bender }
   -
     name: 'OWASP Juice Shop Card (non-foil)'
