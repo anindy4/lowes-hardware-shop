@@ -185,9 +185,9 @@ products:
     price: 4.99
     image: sticker_single.jpg
   -
-    name: 'mower trimmer brush cutter attachment'
-    description: 'Check out this handy attachment for all your gardening needs!'
-    price: 14.99
+    name: 'Lawn Care Combo Kit'
+    description: 'Check out this handy kit for all your gardening needs!'
+    price: 200
     image: tattoo.jpg
     reviews:
       - { text: 'I straight-up gots nuff props fo this tool brooo', author: rapper }
@@ -224,9 +224,9 @@ products:
     reviews:
       - { text: 'Amazing! Kept my house nice and cozy all winter long!', author: jim }
   -
-    name: 'Quince Juice (1000ml)'
-    description: 'Juice of the <em>Cydonia oblonga</em> fruit. Not exactly sweet but rich in Vitamin C.'
-    price: 4.99
+    name: 'Nest Thermostat'
+    description: 'Monitor the temperature of your home from anywhere with this Nest Thermostat'
+    price: 39.99
     image: quince.jpg
   -
     name: 'Bosch Multitool Kit'
@@ -242,8 +242,8 @@ products:
     reviews:
       - { text: 'dese things worked so good when I was working on my house!', author: rapper }
   -
-    name: 'OWASP Juice Shop Logo (3D-printed)'
-    description: 'This rare item was designed and handcrafted in Sweden. This is why it is so incredibly expensive despite its complete lack of purpose.'
+    name: 'Ladder'
+    description: 'Reach all the hard to reach places using our titanium clad ladder'
     price: 99.99
     image: 3d_keychain.jpg # Exif metadata contains "OpenSCAD" as subtle hint...
     fileForRetrieveBlueprintChallenge: JuiceShop.stl # ...to blueprint file type
@@ -263,8 +263,8 @@ products:
     image: waspy.png
     deletedDate: '2017-07-01'
   -
-    name: 'Strawberry Juice (500ml)'
-    description: 'Sweet & tasty!'
+    name: 'Fire Alarm'
+    description: 'Keep your family safe with this highly sensitive alarm. It will even go off when you cook food!'
     price: 3.99
     image: strawberry_juice.jpeg
   -
@@ -282,26 +282,26 @@ products:
     reviews:
       - { text: 'Even more interesting than watching Interdimensional Cable!', author: morty }
   -
-    name: 'Melon Bike (Comeback-Product 2018 Edition)'
-    description: 'The wheels of this bicycle are made from real water melons. You might not want to ride it up/down the curb too hard.'
-    price: 2999
+    name: 'Vacuum Cleaner'
+    description: 'This vacuum cleaner really sucks!'
+    price: 29.99
     quantity: 3
     limitPerUser: 1
     image: melon_bike.jpeg
   -
-    name: 'OWASP Juice Shop Coaster (10pcs)'
+    name: 'Coaster'
     description: 'Our 95mm circle coasters are printed in full color and made from thick, premium coaster board.'
     price: 19.99
     quantity: 0
     image: coaster.jpg
   -
-    name: 'OWASP Snakes and Ladders - Web Applications'
-    description: 'This amazing web application security awareness board game is <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1969196030">available for Tabletop Simulator on Steam Workshop</a> now!'
-    price: 0.01
+    name: 'Measuring Tape'
+    description: 'Make sure all of your measurements are precise with this amazing tool!'
+    price: 12.00
     quantity: 8
     image: snakes_ladders.jpg
     reviews:
-      - { text: 'Wait for a 10$ Steam sale of Tabletop Simulator!', author: bjoernOwasp }
+      - { text: 'Waited for a $10 sale and it was worth it', author: bjoernOwasp }
   -
     name: 'craftsman tool set'
     description: 'The craftsmen toolkit is the perfect solution to handle all your projects.'
@@ -352,9 +352,9 @@ products:
     reviews:
       - { text: "Mau Mau with bling-bling? Humans are so pathetic!", author: bender }
   -
-    name: 'Weed Cutter Grass whip'
+    name: 'Garden Tool'
     description: 'Trim the grass and more with this amazing tool!'
-    price: 300.00
+    price: 30.00
     quantity: 1
     limitPerUser: 1
     image: permafrost.jpg
@@ -370,9 +370,9 @@ products:
       - { text: "I'd stand on my head to make you a deal for this.", author: stan }
       - { text: "Just when my opinion of humans couldn't get any lower, along comes Stan...", author: bender }
   -
-    name: 'OWASP Juice Shop Card (non-foil)'
-    description: 'Mythic rare <small><em>(obviously...)</em></small> card "OWASP Juice Shop" with three distinctly useful abilities. Alpha printing, mint condition. A true collectors piece to own!'
-    price: 1000
+    name: 'Rolling Tool Cabinet'
+    description: 'Store all of your tools in this wonderful portable toolbox. (Just like Apple, wheels not included!'
+    price: 500
     quantity: 3
     limitPerUser: 1
     image: card_alpha.jpg
