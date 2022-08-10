@@ -239,6 +239,7 @@ products:
     description: 'Keep your knees safe with these patent pending kneepads!'
     price: 89.99
     image: fruit_press.jpg
+    reviews:
       - { text: 'dese things worked so good when I was working on my house!', author: rapper }
   -
     name: 'OWASP Juice Shop Logo (3D-printed)'
