@@ -275,11 +275,6 @@ products:
     reviews:
       { text: '0 st4rs f0r 7h3 h0rr1bl3 s3cur17y', author: uvogin }
   -
-    name: 'Microwave'
-    description: 'Zap your food until it can't be zapped no more. This microwave is rated for 8000 amps, enough to cook a wildebeast!'
-    price: 60.00
-    image: stickersheet_se.png
-  -
     name: 'Hammer'
     description: 'This hammer is ready to hammer away the competition with its titanium construction and durable grip'
     price: 5.99
