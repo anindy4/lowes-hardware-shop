@@ -273,7 +273,7 @@ products:
     price: 2.99
     image: carrot_juice.jpeg
     reviews:
-      - { text: '0 st4rs f0r 7h3 h0rr1bl3 s3cur17y', author: uvogin }
+      { text: '0 st4rs f0r 7h3 h0rr1bl3 s3cur17y', author: uvogin }
   -
     name: 'Microwave'
     description: 'Zap your food until it can't be zapped no more. This microwave is rated for 8000 amps, enough to cook a wildebeast!'
