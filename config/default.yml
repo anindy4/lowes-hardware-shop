@@ -33,13 +33,13 @@ application:
   welcomeBanner:
     showOnFirstStart: true
     title: 'Welcome to Lowes Hardware Shop!'
-    message: "<p>Welcome to the Hardware Shop. Here you will find a serious of security vulnerabilities that have been customized to emulate an online shopping platform. We hope you enjoy. All credit for the orginal project goes to OWASP: </p><h1><a href='https://owasp-juice.shop' target='_blank'>https://owasp-juice.shop</a></h1>"
+    message: "<p>Welcome to the Hardware Shop. Here you will find a series of security vulnerabilities that have been customized to emulate an online shopping platform. We hope you enjoy. All credit for the orginal project goes to OWASP: </p><h1><a href='https://owasp-juice.shop' target='_blank'>https://owasp-juice.shop</a></h1>"
   cookieConsent:
     backgroundColor: '#0041C2'
     textColor: '#ffffff'
     buttonColor: '#558b2f'
     buttonTextColor: '#ffffff'
-    message: 'This website uses cookies to ensure you get the best Lowes Custyomer experience'
+    message: 'This website uses cookies to ensure you get the best Lowes Customer experience'
     dismissText: 'Me want it!'
     linkText: 'But me wait!'
     linkUrl: 'https://www.youtube.com/watch?v=9PnbKL3wuH4'
